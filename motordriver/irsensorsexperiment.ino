@@ -5,6 +5,8 @@
 #define ir1out 7  //1st ir pair output
 #define ir2out 8  //2nd ir pair output
 
+
+
 void setup() {
   // put your setup code here, to run once:
   pinMode(in1, OUTPUT);
